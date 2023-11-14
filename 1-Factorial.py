@@ -4,5 +4,4 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-if __name__ == __main__:
-    print(factoial(6))
+print(factoial(6))
